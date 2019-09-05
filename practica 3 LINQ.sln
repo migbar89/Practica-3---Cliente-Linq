@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practica 3 LINQ", "practica 3 LINQ\practica 3 LINQ.csproj", "{1663C998-BF23-435F-AD9B-63AB816E3F06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1663C998-BF23-435F-AD9B-63AB816E3F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1663C998-BF23-435F-AD9B-63AB816E3F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1663C998-BF23-435F-AD9B-63AB816E3F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1663C998-BF23-435F-AD9B-63AB816E3F06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C5DD2ED-7988-4DE7-B2EE-4F0CE1E1C98C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\miguel\Desktop\practica 3 LINQ\practica 3 LINQ\bin\Debug\practica 3 LINQ.exe.config
+C:\Users\miguel\Desktop\practica 3 LINQ\practica 3 LINQ\bin\Debug\practica 3 LINQ.exe
+C:\Users\miguel\Desktop\practica 3 LINQ\practica 3 LINQ\bin\Debug\practica 3 LINQ.pdb
+C:\Users\miguel\Desktop\practica 3 LINQ\practica 3 LINQ\obj\Debug\practica 3 LINQ.csprojAssemblyReference.cache
+C:\Users\miguel\Desktop\practica 3 LINQ\practica 3 LINQ\obj\Debug\practica_3_LINQ.Properties.Resources.resources
+C:\Users\miguel\Desktop\practica 3 LINQ\practica 3 LINQ\obj\Debug\practica 3 LINQ.csproj.GenerateResource.cache
+C:\Users\miguel\Desktop\practica 3 LINQ\practica 3 LINQ\obj\Debug\practica 3 LINQ.csproj.CoreCompileInputs.cache
+C:\Users\miguel\Desktop\practica 3 LINQ\practica 3 LINQ\obj\Debug\practica 3 LINQ.exe
+C:\Users\miguel\Desktop\practica 3 LINQ\practica 3 LINQ\obj\Debug\practica 3 LINQ.pdb
+C:\Users\miguel\Desktop\practica 3 LINQ\practica 3 LINQ\obj\Debug\practica_3_LINQ.Form1.resources

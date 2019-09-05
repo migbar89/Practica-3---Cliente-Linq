@@ -1,0 +1,100 @@
+﻿1;2810809620004F; Martha Andrea ; Torres Solis ;1962-09-08;27222810;89328108; Bo. E.Smith	 Z-11 Tn.-1721C.N. 3C.Arr.  C.S. ;martha.andrea.torres.solis@gmail.com; San Carlos ;4;F	
+2;2810809620010M; Enia Mercedes ; Hernandez Gradys ;1962-09-08;23112810;81728108; Dr. Cayetano Munguia	  C.E. ;enia.mercedes.hernandez.gradys@gmail.com;Nindirí;3;F	
+3;2810809630000V; Elias Natividad ; Trejo Mejia ;1963-09-08;25422810;86528108; Rpto. Fundeci	 Ii Etapa B-3 P-16 3-I ;elias.natividad.trejo.mejia@outlook.com; Santa Teresa ;3;M	
+4;2810809630002X; Ramiro Natividad ; Villalobos Perez ;1963-09-08;27222810;83828108; Bo.Subtiava	 Donde Fueronlos Talleres Ford 2C.Sur ;ramiro.natividad.villalobos.perez@pranks.com;Niquinohomo;4;M	
+5;2810809630003Y; Maria Isabel ; Reyes Salazar ;1963-09-08;27322810;83628108; Bo. San Felipe	 Fte. A La Cruz Roja ;maria.isabel.reyes.salazar@outlook.com; San Jorge ;4;F	
+6;2810809630005B; Gloria Natividad ; Hernandez Zapata ;1963-09-08;25222810;82628108; Bo. Juan R.Sampson	 Cost.Sur Col. Ma.Eugenia 2C.O. ;gloria.natividad.hernandez.zapata@yahoo.com; San Pedro de Lóvago ;2;F	
+7;2810809640001R; Xiomara Mercedes ; Gomez Flores ;1964-09-08;25832810;88528108; Bo. Sutiava	 Donde Fue Banic Sutiava 1C.O. 1C.N. ;xiomara.mercedes.gomez.flores@outlook.com;Terrabona;1;F	
+8;2810809670011L; Maria Wilma ; Ruiz Andino ;1967-09-08;25632810;87128108; Rpto. J.B.E. 2Da. Calle Ca. No. 182 ;maria.wilma.ruiz.andino@hotmail.com;Estelí;1;F		
+9;2810809680000T; Aura Lila ; Medina Rios ;1968-09-08;22222810;85128108; Pueblo San Jacinto	 Cost.E. De Ig. Catolica ;aura.lila.medina.rios@pranks.com; El Cuá ;3;F	
+10;2810809680008C; Adda Rosa ; Pichardo Pichardo ;1968-09-08;27222810;81528108; Bo.Erasmo Cuadra	Pre- Escolar 2C Al O. ;adda.rosa.pichardo.pichardo@pranks.com;Niquinohomo;2;F	
+11;2810809690008W; Marisol Francisca ; Mercado Flores ;1969-09-08;25222810;81728108; Ciudad Sandino	 Zona No.4 G-7 ;marisol.francisca.mercado.flores@outlook.com; San Francisco del Norte ;1;F	
+12;2810809690021L; Maritza Natividad ; Duarte Palma ;1969-09-08;25832810;81128108; Bo. Guadalupe	 Texaco Guadal. 2C. E.  C. N. ;maritza.natividad.duarte.palma@hotmail.com; El Ayote ;2;F	
+13;2810809700003L; Sonia Belinda ; Mendoza Torrez ;1970-09-08;25122810;83628108; Bo. Benito Lacayo	 Papalote 3 C. Abajo. ;sonia.belinda.mendoza.torrez@yahoo.com; San Francisco de Cuapa ;1;F	
+14;2810809700004M; Jose Natividad ; Roque Hernandez ;1970-09-08;22522810;87528108; Repto. Veracruz	 Cont.Fca. Caða Brava ;jose.natividad.roque.hernandez@gmail.com;Waspam;2;M	
+15;2810809710011P; Marisol De Mercedes ; Romero Romero ;1971-09-08;27222810;84628108; Rpto.W.Fonseca	 Esc.3C.N. C.Ab. ;marisol.de.mercedes.romero.romero@outlook.com;Juigalpa;2;F	
+16;2810809720001X; Nery Del Carmen ; Bravo Arostegui ;1972-09-08;23112810;81728108; Bo. La Arrocera	 Lab. Divina	 3C.O.  C.S. ;nery.del.carmen.bravo.arostegui@pranks.com; La Cruz de Río Grande ;2;F
+17;2810809720005C; Migdonio Napoleon ; Hernandez Nuðez ;1972-09-08;25322810;89628108; Rpto. Che Guevara	 2Da. Calle ;migdonio.napoleon.hernandez.nuðez@gmail.com;Terrabona;1;M	
+18;2810809720006D; Gladys Mercedes ; Guadamuz Pacheco ;1972-09-08;25832810;81328108; Bo.Subtiava	 Igl.Subt.3C.S. 1C.O. ;gladys.mercedes.guadamuz.pacheco@yahoo.com; Santo Domingo ;3;F	
+19;2810809720007E; Adriana Mercedes ; Castillo Toval ;1972-09-08;25722810;82528108; Bo.Ermita De D.	 Desmo. Gurdian 1C.N. 25Vrs.Ab. ;adriana.mercedes.castillo.toval@outlook.com; San Carlos ;4;F	
+20;2810809730012E; Victor Manuel ; Juarez Flores ;1973-09-08;25122810;88228108; Limonal	 3Ra.Ce. 1 C.Ab. ;victor.manuel.juarez.flores@outlook.com;Niquinohomo;3;M	
+21;2810809740008U; Natividad Juana ; Vargas Hernandez ;1974-09-08;25322810;88028108; Bo.Adrian Reyes.Est.1C N 3 C. E.   Al N. ;natividad.juana.vargas.hernandez@pranks.com;Sébaco;4;F		
+22;2810809740010W; Denis Francisco ; Juarez Garcia ;1974-09-08;22222810;85728108; Rpto.Carlos Fonseca	1Ra. Calle Fte.Areas Verdes ;denis.francisco.juarez.garcia@hotmail.com;Siuna;4;M	
+23;2810809750000F; Carmen Eloisa ; Flores Leyton ;1975-09-08;25632810;87528108; Vi. Soberana	 Bar Neysi 3C.E. C.N. ;carmen.eloisa.flores.leyton@outlook.com;Masatepe;3;F	
+24;2810809750001G; Mario Ramon ; Romero Diaz ;1975-09-08;22522810;82528108; Bo.Sn.Antonio S. Alc. 1C.E.	  C. N. ;mario.ramon.romero.diaz@outlook.com; Wiwilí de Nueva Segovia ;1;M	
+25;6151311690002X; Maria Sebastiana ; Hernandez Amador ;1969-11-13;27726151;81861513; Comarca Ubu Sur	 Finca Los Laureles ;maria.sebastiana.hernandez.amador@outlook.com;Siuna;4;F	
+26;2810809760001B; Elisa Maria ; Hernandez Gutierrez ;1976-09-08;25322810;87428108; Bo.San Felipe	Pizarra Del Estadio 10 Vrs.Arr. ;elisa.maria.hernandez.gutierrez@hotmail.com;Esquipulas;3;F	
+27;2810809760004E; Maria Gertrudis ; Hernandez Palacios ;1976-09-08;25322810;88328108; Bo. El Sagrario	 Fte. Cine Roman ;maria.gertrudis.hernandez.palacios@gmail.com;Chinandega;3;F	
+28;2810809760008J; Ana Julieta ; Lorio Villalobos ;1976-09-08;27722810;85228108; Bo.Fundeci	2Da.Etapa D2 Piso 58 ;ana.julieta.lorio.villalobos@hotmail.com; San Sebastián de Yalí ;2;F	
+29;2810809760009K; Natividad Adriana ; Valdivia Lacayo ;1976-09-08;23412810;88028108; Cmca. Cuatro Polos	 Cost.Sur Del Rio ;natividad.adriana.valdivia.lacayo@hotmail.com; El Jicaral ;1;F	
+30;2810809770000U; Martha Lorena ; Ramirez Esquivel ;1977-09-08;25222810;86128108; Bo. Subtiava	 Hermita San Pedro 4 C. Sur. ;martha.lorena.ramirez.esquivel@outlook.com;Bonanza;2;F	
+31;2810809770005A; Jorge Luis ; Vasquez Sanchez ;1977-09-08;25632810;84528108; Bo.Subtiava	 Texaco Guido 2C.S. 25Vrs.E. ;jorge.luis.vasquez.sanchez@hotmail.com; El Coral ;3;M	
+32;2810809770006B; Maria Mercedes ; Gomez Muðoz ;1977-09-08;27822810;82928108; Rpto. Sta. Lucia	 1Ra. Calle ;maria.mercedes.gomez.muðoz@hotmail.com;Larreynaga;2;F	
+33;5230309820000Q; Gabriel De Jesus ; Carmona Martinez ;1982-09-03;25835230;86052303; Cas. Never Oporta	 Frente Centro Salud ;gabriel.de.jesus.carmona.martinez@gmail.com; El Realejo ;4;M	
+34;2810809790000J; Manuel Antonio ; Zapata Sandino ;1979-09-08;23112810;86328108; Bo. Guadalupe	 Del I.N.O.  C. Al Este ;manuel.antonio.zapata.sandino@gmail.com; Laguna de Perlas ;2;M	
+35;2810809790001K; Rider Efren ; Mendoza Blanco ;1979-09-08;27222810;86428108; Bo.El Coyolar	Farm. La Estacion 1  Al N. ;rider.efren.mendoza.blanco@hotmail.com; La Paz Centro ;3;M	
+36;2810809790003M; Ligia Patricia ; Tapia Narvaez ;1979-09-08;22222810;86328108; Bo. San Antonio	 Banic 1C. S. 20 Vrs. Arriba. ;ligia.patricia.tapia.narvaez@gmail.com; El Rama ;1;F	
+37;2810810050001T; Brijida Concepcion ; Ruiz Morales ;1905-10-08;25632810;86528108; Repto. B.Zeledon	 Cost.O.Coleg.J.J.Quezada 30V.Ab. ;brijida.concepcion.ruiz.morales@gmail.com;Altagracia;1;F	
+38;2810810110001L; Simeon Antonio ; Lopez Zamora ;1911-10-08;22522810;84728108; Bo. El Cementerio	 Telcor1C. Al Norte  C. Abajo ;simeon.antonio.lopez.zamora@pranks.com;Ocotal;2;M	
+39;2810810150004S; Simeon Adolfo ; Centeno Rios ;1915-10-08;27322810;86428108; Col. Agateyte	 Cancha  C. Abajo	  C. Norte ;simeon.adolfo.centeno.rios@yahoo.com; La Libertad ;4;M
+40;2810810220002C; Brijida Julieta ; Arguello Gutierrez ;1922-10-08;25122810;89328108; Colonia Independencia	 Zumen 2C. S. Ca. No.94 ;brijida.julieta.arguello.gutierrez@gmail.com;Sébaco;2;F	
+41;2810810220007H; Brigida Haydee ; Montalvan Zapata ;1922-10-08;27322810;81228108; Bo. Ermita De Dolores	 Aserrio Santa Fe 2C.Abajo ;brigida.haydee.montalvan.zapata@yahoo.com; Puerto Cabezas ;3;F	
+42;2810810250003M; Maria Leticia ; Miranda Rocha ;1925-10-08;27322810;85928108; Bo. Zaragoza	 Iglesia 1C. Norte 1 C. Abajo ;maria.leticia.miranda.rocha@pranks.com;Palacagüina;4;F	
+43;4471306860001A; Deglis Antonio ; Avilez Avilez ;1986-06-13;25834471;81244713; Igl. Catolica 150Vrs.E. 50Vrs.S. ;deglis.antonio.avilez.avilez@yahoo.com; Santa Lucía ;4;M		
+44;2810810280004W; Josefa Del Carmen ; Calero Montenegro ;1928-10-08;27322810;89428108; Bo. El Calvario	 Farm. Corea 1C.N. 15Vrs. E. ;josefa.del.carmen.calero.montenegro@gmail.com; Kukra Hill ;4;F	
+45;2810810320001W; Virgilio Fernando ; Zamora Palacios ;1932-10-08;25632810;82528108; Vi. 23 De Julio	 Ce. Central B-158 ;virgilio.fernando.zamora.palacios@pranks.com;Jalapa;3;M	
+46;2810810320007D; Brigida Rosa ; Cervantes Tellez ;1932-10-08;25122810;86428108; Cas.El Triunfo	 Fca. El Triunfo ;brigida.rosa.cervantes.tellez@gmail.com; El Sauce ;3;F	
+47;2810810430004Q; Maria Auxiliadora ; Ramos Hidalgo ;1943-10-08;27132810;88828108; Bo. Subtiava	 Ig. Zaragoza 3C. Oeste. ;maria.auxiliadora.ramos.hidalgo@hotmail.com;Jalapa;2;F	
+48;2810810450006G; Simona Brigida ; Acosta Trujillo ;1945-10-08;27922810;86528108; Bo. El Coyolar	 Hotel Eu-Ropa 5 C. Al Este. ;simona.brigida.acosta.trujillo@pranks.com;Posoltega;3;F	
+49;2810810460001V; Rafael Jose ; Reyes Martinez ;1946-10-08;27322810;86828108; Bo. Yuri Ordoðez	 Mon. Ruben Dario 1C. Al E. ;rafael.jose.reyes.martinez@gmail.com;Totogalpa;1;M	
+50;2810810460002W; Simeon Ramon ; Hernandez Garcia ;1946-10-08;27322810;88828108; Bo. Zaragoza	 Iglesia Zaragoza 1C.Ab.  C.S. ;simeon.ramon.hernandez.garcia@yahoo.com; El Crucero ;2;M	
+51;2810810460004Y; Carlos Brigido ; Leon Carcamo ;1946-10-08;25122810;88028108; Bo. Ermita Dolores	 Proquinsa 2 C.Ab. 30V.N. ;carlos.brigido.leon.carcamo@yahoo.com;Murra;1;M	
+52;2810810490005J; Sergio Simeon ; Lopez Barcenas ;1949-10-08;25222810;82228108; Bo.Sutiava	 C.Escolar De Sutiava 1C.S.  C.E. ;sergio.simeon.lopez.barcenas@gmail.com; El Tortuguero ;4;M	
+53;2810810530008Q; Brigido Lionel ; Caballero Caballero ;1953-10-08;27722810;82028108; Cmca.Sirama Sur	Dt.Centrodestilatorio 500Vrs.Norte ;brigido.lionel.caballero.caballero@yahoo.com; Ciudad Sandino ;4;M	
+54;2810810540005G; Brigida Simona ; Hernandez Urroz ;1954-10-08;23112810;84428108; Cmca. Chacaraseca	 Las Lomas ;brigida.simona.hernandez.urroz@pranks.com;Paiwas;3;F	
+55;2810810550002X; Denis Pelagio ; Espinoza Mendiola ;1955-10-08;25722810;89528108; Bo. Calvario	 Enel	 2 C. E. 75Vrs. S. ;denis.pelagio.espinoza.mendiola@pranks.com;Estelí;1;M
+56;2810810570003N; Linda De Los Angeles ; Granados Toruðo ;1957-10-08;27322810;85028108; Bo. El Calvario	 Enel. 3C.E.  C.S. ;linda.de.los.angeles.granados.toruðo@gmail.com; Wiwilí de Jinotega ;4;F	
+57;2810810580006L; Norma Brigida ; Lacayo Sandino ;1958-10-08;25722810;85128108; Bo.Subtiava	 Ermita San Pedro 1C.S.  C.O. ;norma.brigida.lacayo.sandino@outlook.com; San Dionisio ;4;F	
+58;2810810580013T; Mayra Azucena ; Orozco Gomez ;1958-10-08;25632810;85828108; Rpto. Todo Sera Mejor	 3Ra. Calle Casa 27 ;mayra.azucena.orozco.gomez@outlook.com; Santa Lucía ;4;F	
+59;2810810590009J; Alvaro Jose ; Espinoza Mendoza ;1959-10-08;23112810;84428108; Ciudad Sandino	 Z-2 L-9 ;alvaro.jose.espinoza.mendoza@gmail.com;Catarina;3;M	
+60;2810810600004X; Brigida Myriam ; Toval Peða ;1960-10-08;27222810;81828108; Bo. Ermita De Dolores	 Iglesia 10Vrs.Abajo ;brigida.myriam.toval.peða@hotmail.com;Altagracia;1;F	
+61;2810810600006A; Simeon Ramon ; Canales Gutierrez ;1960-10-08;25222810;89928108; Bo.Sutiava	 Coleg. Calasanz 5C.S. ;simeon.ramon.canales.gutierrez@yahoo.com; Santa María de Pantasma ;2;M	
+62;2810810610004S; Simeon Antolin ; Carcamo Lorio ;1961-10-08;27722810;86628108; Costado Norte Colegio Madre Maria Eugenia ;simeon.antolin.carcamo.lorio@outlook.com;Moyogalpa;2;M		
+63;2810810610006U; Brigida Del Rosario ; Roque Berrios ;1961-10-08;27822810;81928108; Colegio Calasanz 4C.Sur ;brigida.del.rosario.roque.berrios@gmail.com;Waspam;1;F		
+64;2810810640003A; Luisa Mercedes ; Lopez Espinoza ;1964-10-08;22222810;82428108; Repto.Fundeci	 Ii Etapa Ca.C2-P45-2D 2Do. Piso ;luisa.mercedes.lopez.espinoza@gmail.com;Moyogalpa;3;F	
+65;2810810650013F; Aida Maria ; Guido Guzman ;1965-10-08;23112810;89728108; Bo. Felipe Lopez	 Puesto Mct 1C.S.  C.E. ;aida.maria.guido.guzman@yahoo.com; La Concordia ;3;F	
+66;2810810660012Y; Martha Maria ; Centeno Mairena ;1966-10-08;25322810;81628108; Bo. Guadalupe	 Texaco 1C. Este 25Vrs. Sur. ;martha.maria.centeno.mairena@hotmail.com; La Paz de Carazo ;4;F	
+67;2810810680012N; Melida Del Carmen ; Ibarra Arguello ;1968-10-08;25832810;86528108; Rpto. Posada El Sol	 Radio Dario 1 C.Oeste ;melida.del.carmen.ibarra.arguello@outlook.com; San Sebastián de Yalí ;2;F	
+68;2810810680014Q; Vilma Brigida ; Millon Fonseca ;1968-10-08;23112810;81228108; Bo. Subtiava	 Colegio Calasanz 5C. Sur. ;vilma.brigida.millon.fonseca@outlook.com; San Francisco del Norte ;3;F	
+69;2810810680015R; Francisco Simon ; Muðoz Hernandez ;1968-10-08;27222810;84628108; Bo. Subtiava N.	Talleres Ford 1C.Norte  C.Oeste ;francisco.simon.muðoz.hernandez@outlook.com; El Jícaro ;2;M	
+70;2810810690000U; Martha Guadalupe ; Jimenez Hernandez ;1969-10-08;27922810;83328108; Bo.18 De Julio	 Alcaldia Mcpal 6C. Sur ;martha.guadalupe.jimenez.hernandez@yahoo.com;Camoapa;4;F	
+71;2810810690008D; Javier Jose ; Orozco Baldizon ;1969-10-08;23112810;87428108; Cmca. Momotombo	 Fca. Sn.Jose ;javier.jose.orozco.baldizon@pranks.com;Nagarote;3;M	
+72;2810810690015L; Gioconda Del Socorro ; Chavez Hernandez ;1969-10-08;25832810;82128108; Cmca.El Jicarito	 Cost.S.Tanque De Agua Potable ;gioconda.del.socorro.chavez.hernandez@gmail.com;Corinto;1;F	
+73;2810810700009Y; Brigido Simeon ; Ruiz Moran ;1970-10-08;27322810;85128108; Cmca. Sn.Ildefonso S. Fca. Martineða 150Mts. E. ;brigido.simeon.ruiz.moran@hotmail.com;Catarina;2;M		
+74;2810810710001K; Johanna Gertrudis ; Gonzalez Reyes ;1971-10-08;22222810;84028108; Villa 23 De Julio	 Anden No. 7 B-175. ;johanna.gertrudis.gonzalez.reyes@gmail.com; Santo Tomás del Norte ;2;F	
+75;2810810710003M; Emma Del Socorro ; Balladares Olivera ;1971-10-08;27922810;89328108; Sector No.2	 De La Ig. Catolica 15 Vrs. Al O. ;emma.del.socorro.balladares.olivera@yahoo.com;Tipitapa;1;F	
+76;2810810720007L; Aura Mercedes ; Vilchez Mendoza ;1972-10-08;25722810;86628108; Bo.Salida Sta. Pancha	 Mina El Limon ;aura.mercedes.vilchez.mendoza@yahoo.com;Niquinohomo;3;F	
+77;2810810720013S; Felix Antonio ; Sanchez Tercero ;1972-10-08;25632810;86228108; Bo. Sutiava	 Coleg.Calasanz 70Vrs.Arr. ;felix.antonio.sanchez.tercero@gmail.com; Buenos Aires ;3;M	
+78;2810810730002A; Francis Noelia ; Cortez Aleman ;1973-10-08;27222810;83328108; Rpto. Mario Quant	Coleg. Ruben Dario 4C.O. 1 C.N. ;francis.noelia.cortez.aleman@yahoo.com;Rivas;3;F	
+79;2810810730009H; Orly Gabino ; Urbina Hernandez ;1973-10-08;25422810;88328108; Rpto. Venceremos	 Segunda Calle ;orly.gabino.urbina.hernandez@pranks.com;Juigalpa;4;M	
+80;2810810740016K; Lesbia De Los Angeles ; Figueroa Soza ;1974-10-08;27322810;82828108; Barrio Subtiava Norte	 Rpto.Sta.Lucia 3Ra.Calle ;lesbia.de.los.angeles.figueroa.soza@yahoo.com; Santo Tomás del Norte ;3;F	
+81;2810810740021Q; Deyvin Simeon ; Espinoza Leiva ;1974-10-08;25722810;83728108; Pizarra Del Estadio	 C.N. ;deyvin.simeon.espinoza.leiva@pranks.com;Boaco;1;M	
+82;2810810740022R; Aquiles Simeon ; Palma Diaz ;1974-10-08;22522810;85928108; Bo. Guadalupe	 Cost. N. Parque   C. O. ;aquiles.simeon.palma.diaz@pranks.com; San Carlos ;3;M	
+83;2810810740024T; William Simeon ; Davila Vilchez ;1974-10-08;22522810;88628108; Bo. Guadalupe	 Cost. Sur Iglesia  C. Al Sur ;william.simeon.davila.vilchez@hotmail.com;Matiguás;3;M	
+84;2810810750006T; Rosa Angelina ; Estrada Reyes ;1975-10-08;22222810;81828108; Villa San Nicolas	 Casa No.6 ;rosa.angelina.estrada.reyes@gmail.com;Condega;3;F	
+85;2810810750008V; Maria Isabel ; Rivera Gonzalez ;1975-10-08;25222810;81128108; Escuela Hernanos Del Japon 1 C. Oeste ;maria.isabel.rivera.gonzalez@hotmail.com;Diriá;3;F		
+86;2810810760000G; Marlon Alberto ; Davila Carcamo ;1976-10-08;23112810;85928108; Rpto. Erick Ramirez	 Empal.Chichigalpa 500V.S ;marlon.alberto.davila.carcamo@outlook.com;Camoapa;2;M	
+87;2810810760001H; Santos Enrique ; Valverde Mendoza ;1976-10-08;25832810;81828108; Comarca Santa Alicia De Apante Casa No.A-11 ;santos.enrique.valverde.mendoza@pranks.com; La Concordia ;3;M		
+88;2810810760008Q; Alvaro Jose ; Hernandez Amador ;1976-10-08;25222810;88528108; Bo.Ermita De Dolores	 Proquinsa 1C. Abajo ;alvaro.jose.hernandez.amador@pranks.com; San José de Bocay ;1;M	
+89;2810810770000B; Irene Del Rosario ; Anton Hernandez ;1977-10-08;25222810;89428108; Colonia Maximo Jerez	 Grupo B-77 ;irene.del.rosario.anton.hernandez@outlook.com; Tuma La Dalia ;2;F	
+90;2810810770001C; Walter Jose ; Salazar Salgado ;1977-10-08;27132810;85928108; Bo. Eta. Dolores	 1C. N.  C. Ab. ;walter.jose.salazar.salgado@outlook.com;Granada;2;M	
+91;2810810770004F; Roberto Arturo ; Berrios Zepeda ;1977-10-08;27722810;87228108; Bo. San Felipe	 Cost. Sur Parque San Felipe ;roberto.arturo.berrios.zepeda@pranks.com; San Marcos ;4;M	
+92;2810810780001W; Eugenio Fernando ; Caceres Lacayo ;1978-10-08;25122810;85528108; Bo. Fundeci	 Ii Etapa ;eugenio.fernando.caceres.lacayo@yahoo.com; San Francisco Libre ;1;M	
+93;2810810780008E; Marisela Natividad ; Guido Rugama ;1978-10-08;27722810;89228108; Repto.O.P.Cassar	 2Da. Calle ;marisela.natividad.guido.rugama@pranks.com;Morrito;2;F	
+94;2810810780009F; Erika Brigida ; Solorzano Blandon ;1978-10-08;25322810;87828108; Bo. Guadalupe	 Parque Guadalupe 2  Oeste ;erika.brigida.solorzano.blandon@outlook.com;Ocotal;4;F	
+95;2810810780010G; Marlon Antonio ; Pineda Baldizon ;1978-10-08;27322810;81328108; Cmca. Lechecuagos	 Sector Guapango ;marlon.antonio.pineda.baldizon@pranks.com; Santa María de Pantasma ;1;M	
+96;2810810780012J; Mario Jose ; Molina Trejos ;1978-10-08;22522810;81528108; Asento. A. Mendoza	Coleg.B.Cano 4C.Ar. 1 C.N. ;mario.jose.molina.trejos@pranks.com; La Cruz de Río Grande ;2;M	
+97;2810810780013K; Ulises Jose ; Molina Trejos ;1978-10-08;25422810;83928108; Asento. A. Mendoza	 Del Brenda C. 4C.Arr.  C.S. ;ulises.jose.molina.trejos@hotmail.com;Niquinohomo;3;M	
+98;2810810790002S; Josue Abel ; Hernandez Rayo ;1979-10-08;27822810;85928108; Bo. El Calvario	 Tenis 1C.Sur  C.Arriba ;josue.abel.hernandez.rayo@outlook.com;Teustepe;2;M	
+99;2810810790003T; Marvin Ramon ; Calderon Ortega ;1979-10-08;25222810;87328108; Rpto. Villa 23 De Julio	 3Era. Calle Ca.No. 30 A ;marvin.ramon.calderon.ortega@gmail.com; El Cuá ;1;M	
+100;2810810790006W; Maria Elena ; Altamirano Zapata ;1979-10-08;27132810;88928108; Col 14 De Sept.Semaf.De Rubenia 1C.S.2C.E.B-110 ;maria.elena.altamirano.zapata@pranks.com; San Juan de Oriente ;2;F		
