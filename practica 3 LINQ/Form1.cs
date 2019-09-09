@@ -37,6 +37,7 @@ namespace practica_3_LINQ
             //
             listafiltrada = listacliente;
             cargardatos();
+            ctsexo.SelectedIndex = 0;
         }
         void cargardatos()
         {
@@ -64,6 +65,10 @@ namespace practica_3_LINQ
             if (ctapellido.Text.Trim().Length > 0)
             {
                 query = query.Where(p => p.apellido.ToUpper().Contains(ctapellido.Text.Trim().ToUpper()));
+            }
+            if (ctsexo.SelectedIndex > 0)
+            {
+                query = query.Where(p => p.sexo.Trim().ToUpper()==ctsexo.Text.Trim().ToUpper());
             }
             listafiltrada = query.ToList();
             //MessageBox.Show("lista filtrada=" + listafiltrada.Count.ToString());

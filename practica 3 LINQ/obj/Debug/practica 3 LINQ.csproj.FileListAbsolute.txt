@@ -8,3 +8,13 @@ C:\Users\miguel\Desktop\practica 3 LINQ\practica 3 LINQ\obj\Debug\practica 3 LIN
 C:\Users\miguel\Desktop\practica 3 LINQ\practica 3 LINQ\obj\Debug\practica 3 LINQ.exe
 C:\Users\miguel\Desktop\practica 3 LINQ\practica 3 LINQ\obj\Debug\practica 3 LINQ.pdb
 C:\Users\miguel\Desktop\practica 3 LINQ\practica 3 LINQ\obj\Debug\practica_3_LINQ.Form1.resources
+\\VBOXSVR\Documentos\practica 3 LINQ\practica 3 LINQ\bin\Debug\practica 3 LINQ.exe.config
+\\VBOXSVR\Documentos\practica 3 LINQ\practica 3 LINQ\bin\Debug\practica 3 LINQ.exe
+\\VBOXSVR\Documentos\practica 3 LINQ\practica 3 LINQ\bin\Debug\practica 3 LINQ.pdb
+\\VBOXSVR\Documentos\practica 3 LINQ\practica 3 LINQ\obj\Debug\practica 3 LINQ.csprojAssemblyReference.cache
+\\VBOXSVR\Documentos\practica 3 LINQ\practica 3 LINQ\obj\Debug\practica_3_LINQ.Form1.resources
+\\VBOXSVR\Documentos\practica 3 LINQ\practica 3 LINQ\obj\Debug\practica_3_LINQ.Properties.Resources.resources
+\\VBOXSVR\Documentos\practica 3 LINQ\practica 3 LINQ\obj\Debug\practica 3 LINQ.csproj.GenerateResource.cache
+\\VBOXSVR\Documentos\practica 3 LINQ\practica 3 LINQ\obj\Debug\practica 3 LINQ.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Documentos\practica 3 LINQ\practica 3 LINQ\obj\Debug\practica 3 LINQ.exe
+\\VBOXSVR\Documentos\practica 3 LINQ\practica 3 LINQ\obj\Debug\practica 3 LINQ.pdb
